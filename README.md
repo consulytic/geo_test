@@ -8,6 +8,6 @@ The environment has been set up, using miniconda to:
 - set up git with remote on github.com
 
 ---
-*Despite installing using conda, Jupyter Notebook through an error about tbb.so.lib, so I installed it manually. Also, for the Alberta ED Map to plt, I needed the Descartes library.*
+*Despite installing using conda, Jupyter Notebook through an error about tbb.so.lib, so I installed it manually. Also, for the Alberta ED Map to plot, I needed the Descartes library.*
 
 --- 
